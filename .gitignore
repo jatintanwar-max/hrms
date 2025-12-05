@@ -152,3 +152,6 @@ whoosh_index/
 
 #PyCharm
 .idea/
+
+# Ignore local virtual environment
+horillavenv/
